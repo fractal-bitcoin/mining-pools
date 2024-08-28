@@ -1321,5 +1321,23 @@
     "addresses": ["1MpPPW6PLJi26UaVR8fn11bx8ivhyjbrcD"],
     "tags": [],
     "link": ""
+  },
+  {
+    "id": 1012,
+    "name": "FractalPool",
+    "addresses": [
+      "bc1qws2kt0t8p0frym9mg0y5q30zxrplclv7purm3f",
+      "bc1qxqpgepvsqc3kkjt363ktxdv7k50eltyxqg3yn8",
+      "bc1q5nswa5a7jnuw054ml9hzwsgf2m43g6srwac53f"
+    ],
+    "tags": ["/Mined By fractalpool.io/"],
+    "link": "https://fractalpool.io"
+  },
+  {
+    "id": 1013,
+    "name": "MoonX",
+    "addresses": [],
+    "tags": ["MoonX_Mining_Pool", "MoonX.sapce", "Fractal_Mining_Pool"],
+    "link": "https://moonx.space"
   }
 ]
