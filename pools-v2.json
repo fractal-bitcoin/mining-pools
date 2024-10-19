@@ -1375,5 +1375,14 @@
     ],
     "tags": ["mining-dutch"],
     "link": "https://www.mining-dutch.nl/"
+  },
+  {
+    "id": 1017,
+    "name": "Molepool",
+    "addresses": [
+      "1Z5cMCKPDQqZ5XGdGTrgrp2eWVCKvVb44"
+    ],
+    "tags": ["/molepool.com/"],
+    "link": "https://molepool.com"
   }
 ]
