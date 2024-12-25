@@ -1241,6 +1241,13 @@
     "link": "https://neopool.com/"
   },
   {
+    "id": 777,
+    "name": "pool.kryptex.com",
+    "addresses": ["1J6BALog6FV6CPfdbCNkeXToYfWUxt5hak"],
+    "tags": ["/pool.kryptex.com/"],
+    "link": "https://pool.kryptex.com"
+  },
+  {
     "id": 1001,
     "name": "FairPool",
     "addresses": [
