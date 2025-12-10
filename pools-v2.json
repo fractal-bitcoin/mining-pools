@@ -1383,5 +1383,17 @@
     ],
     "tags": ["mining-dutch"],
     "link": "https://www.mining-dutch.nl/"
+  },
+  {
+    "id": 1017,
+    "name": "HashPoolPro",
+    "addresses": [
+      "bc1q5njwge8xhxn9z7sc23t2yv9yhjtemcau467ewa",
+      "bc1qmnht05ufm27dzg2kxn38h0eel84ae4h4lhkzxa",
+      "bc1q753jjpxjpqyztyry9pwdlfgr385l7dr6dpnhzk",
+      "bc1qsskm85t36pd0c7v3cdva0uhwuv5wwuz6nl93xf"
+    ],
+    "tags": ["/hashpoolpro/", "/hashpoolpro.com/"],
+    "link": "https://hashpoolpro.com/"
   }
 ]
