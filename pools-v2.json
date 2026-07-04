@@ -1395,5 +1395,12 @@
     ],
     "tags": ["/hashpoolpro/", "/hashpoolpro.com/"],
     "link": "https://hashpoolpro.com/"
+  },
+  {
+    "id": 1018,
+    "name": "Solo256",
+    "addresses": [],
+    "tags": ["solo256.com"],
+    "link": "https://solo256.com/"
   }
 ]
