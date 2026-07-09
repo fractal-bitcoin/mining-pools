@@ -1402,5 +1402,20 @@
     "addresses": [],
     "tags": ["solo256.com"],
     "link": "https://solo256.com/"
+  },
+  {
+  "id": 1019,
+  "name": "PrimeTriad",
+  "addresses": [
+    "bc1pud0cj5a5mklq8w5q62fde0nhrlrjs57p9wzrvpp6zplzqn6swfaq86p2qn"
+  ],
+  "tags": [
+    "/PrimeTriad/",
+    "pool.primetriad.com",
+    "primetriad.com",
+    "Mined By PrimeTriad",
+    "LonelyBits We Are"
+  ],
+  "link": "https://primetriad.com"
   }
 ]
