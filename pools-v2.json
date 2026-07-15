@@ -533,13 +533,6 @@
     "link": "https://tbdice.org"
   },
   {
-    "id": 64,
-    "name": "HASHPOOL",
-    "addresses": [],
-    "tags": ["HASHPOOL"],
-    "link": "https://hashpool.com"
-  },
-  {
     "id": 65,
     "name": "Nexious",
     "addresses": ["1GBo1f2tzVx5jScV9kJXPUP9RjvYXuNzV7"],
