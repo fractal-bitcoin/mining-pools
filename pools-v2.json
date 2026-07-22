@@ -1407,7 +1407,11 @@
   "id": 1019,
   "name": "PrimeTriad",
   "addresses": [
-    "bc1pud0cj5a5mklq8w5q62fde0nhrlrjs57p9wzrvpp6zplzqn6swfaq86p2qn"
+    "bc1pud0cj5a5mklq8w5q62fde0nhrlrjs57p9wzrvpp6zplzqn6swfaq86p2qn",
+    "bc1qxnzexhp29hq2w53wsy45vqr7sturtzryfus6rv",
+    "bc1qzjz3gydt9cg6qgsgd8edsu02e99v90ulasgkgv",
+    "bc1qusy7whjx2zlvgy4zgx62ahjzpj8096tp88dhsw",
+    "bc1pegqxtrrkqjfvzxsd8ua5t6ref5fgjf83r6ujua06u3vyj72wvenq9enltg"
   ],
   "tags": [
     "/PrimeTriad/",
