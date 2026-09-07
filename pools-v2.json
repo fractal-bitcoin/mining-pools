@@ -1414,5 +1414,16 @@
     "LonelyBits We Are"
   ],
   "link": "https://primetriad.com"
+  },
+  {
+    "id": 1020,
+    "name": "PoolBTC",
+    "addresses": [
+      "15mBafndntQeqSeuGCLfyb2mvkq9t2ABGX",
+      "1Fy3CH3vsKNK6FWLX3ucUMqraduGJtrc3Y",
+      "bc1q6mlnj9zj0dy2l6zrzwssjzh3ujgtanr62fj0ny"
+    ],
+    "tags": ["PoolBTC", "minersme-fb", "fbpool.io"],
+    "link": "https://poolbtc.io"
   }
 ]
