@@ -1427,5 +1427,12 @@
     ],
     "tags": ["PoolBTC", "minersme-fb", "fbpool.io"],
     "link": "https://poolbtc.io"
+  },
+  {
+    "id": 1021,
+    "name": "Himpool",
+    "addresses": ["17J8rhJaJ7QJ3AmTPz3RJFetyQC4WYJQZW"],
+    "tags": ["Himpool"],
+    "link": "https://himpool.com"
   }
 ]
